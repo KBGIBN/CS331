@@ -6,4 +6,5 @@
 **Bài toán đặt ra:** Hệ thống cần nhận diện được sản phẩm trong khu vực thanh toán. Đây là bài toán nhận diện vật thể (Object Detection).
 
 **INPUT:** Ảnh chụp khu vực thanh toán có chứa các mặt hàng của cửa hàng, siêu thị. Ảnh có góc chụp thẳng đứng từ trên xuống, vuông góc với bề mặt đặt sản phẩm
+
 **OUTPUT:** Thông tin của các sản phẩm (có thể là: mã sản phẩm, tên sản phẩm,…) có trong ảnh chụp khu vực thanh toán.
